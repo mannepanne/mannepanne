@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Senior Product Manager | Discovery & Exploration Generalist
 
-Hello there! I thrive as the generalist in the room - connecting dots, herding cats, and synthesizing information to drive meaningful product outcomes.
+I thrive as the generalist in the room - connecting dots, herding cats, and synthesizing information to drive meaningful product outcomes.
 
 ---
 
