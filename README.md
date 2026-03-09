@@ -7,9 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in a wide range of things...
 - 🌱 For the latest, see my /now page: https://hultberg.org/now/
+- 📝 Occassionally I post updates (see me!) about stuff I make on my /updates page: https://hultberg.org/updates/
 - 📫 You can reach me via @[mannepanne.bsky.social](https://bsky.app/profile/mannepanne.bsky.social) on Bluesky, or my [LinkedIn profile](https://uk.linkedin.com/in/hultberg)
 
-## 🏆 Senior Product Manager | Discovery & Exploration Generalist
+## 🏆 Senior Product Manager | Specialising in being a Generalist
 
 I thrive as the generalist in the room - connecting dots, herding cats, and synthesizing information to drive meaningful product outcomes.
 
@@ -43,4 +44,6 @@ I thrive as the generalist in the room - connecting dots, herding cats, and synt
 > **First Rule:** _Do No Harm_
 
 > **Second Rule:** In any moment of decision, the best thing you can do is the right thing, the next best thing is the wrong thing, and the worst thing you can do is nothing.
+
+> **Third Rule:** "There are no right answers to wrong questions." - Ursula K. Le Guin
 
