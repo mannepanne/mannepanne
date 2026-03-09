@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I'm Magnus Hultberg
 
 - 👀 I’m interested in a wide range of things...
-- 🌱 For the latest, see my /now page: https://hultberg.org/now/
-- 📝 Occassionally I post updates (see me!) about stuff I make on my /updates page: https://hultberg.org/updates/
+- 🌱 For the latest, see my /[now](https://hultberg.org/now/) page
+- 📝 Occassionally I post updates (see me!) about stuff on my /[updates](https://hultberg.org/updates/) page
 - 📫 You can reach me via @[mannepanne.bsky.social](https://bsky.app/profile/mannepanne.bsky.social) on Bluesky, or my [LinkedIn profile](https://uk.linkedin.com/in/hultberg)
 
 ## 🏆 Senior Product Manager | Specialising in being a Generalist
